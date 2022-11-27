@@ -1,0 +1,29 @@
+.login-body{
+   background-color: skyblue;
+}
+.log-in{
+    /*width: 50%;*/
+    padding: 400px;
+}
+.from-group label{
+    display: block;
+    font-size: 20px;
+    font-family: 6px;
+    font-weight: 600;
+}
+.from-group input{
+    width: 100%;
+    border-radius: 6px;
+    padding: 4px 8px;
+}
+.btn{
+    margin: auto;
+    grid-template-columns: 200px 200px 200px;
+    display: grid;
+    top: 100px;
+}
+.use input{
+    width: 100%;
+    border-radius: 6px;
+    padding: 4px 8px;
+}
